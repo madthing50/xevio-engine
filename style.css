@@ -15,3 +15,12 @@ height: 100px
 width: 100%;
 
 }
+.main {
+  background-color: lightblue;
+}
+.random {
+
+  border-left: 2px solid black;
+  height: 200px;
+  background-color: brown;
+}
